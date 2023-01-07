@@ -23,6 +23,10 @@
   <a href="https://www.instagram.com/omar_casey/">
   <img align="center" alt="jack-par | Instagram" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
   </a>
+  
+  <a href="https://twitter.com/adooze_">
+  <img align="center" alt="jack-par | Twitter" width="70px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
+  </a>
 </p>
 
 ---
