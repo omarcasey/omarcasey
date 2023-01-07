@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://omarcasey.com">
-  <img align="center" alt="omar casey | Portfolio" width="70px" src="https://user-images.githubusercontent.com/62918090/135795467-db617837-eb4e-4091-a26b-ecdb722fd907.png" />
+  <img align="center" alt="omar casey | Portfolio" width="70px" src="/OC logo.png" />
   </a>
   
   <a href="https://www.linkedin.com/in/omar-casey/">
