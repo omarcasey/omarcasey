@@ -46,18 +46,6 @@
     <img width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" />
   </a>
   
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img width="46px" src="https://cis.msjc.edu/Tutorials/Programming/Languages/Csharp/images/Csharp_logo.png" />
-  </a>
-  
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img width="46px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
-  </a>
-  
-  <a href="https://unity.com/">
-    <img width="46px" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" />
-  </a>
-  
   <a href="https://reactjs.org">
     <img width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
   </a>
