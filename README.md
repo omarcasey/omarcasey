@@ -5,7 +5,7 @@
 - 🔭 Currently learning fullstack web development with react.js, next.js, typescript, as well as learning about AI
 - 👯 Looking to collaborate with others and contribute to Open Source Projects
 - 📚 Currently seeking employment and career opportunities
-- 💥 My hobbies include strength training and photography
+- 💥 My hobbies include strength training and entrepreneurship
 
 ---
 
