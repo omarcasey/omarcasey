@@ -12,9 +12,6 @@
 ### <div align="center"> Connect with me! </div>
 
 <p align="center">
-  <a href="https://omarcasey.com">
-  <img align="center" alt="omar casey | Portfolio" width="70px" src="/OC logo.png" />
-  </a>
   
   <a href="https://www.linkedin.com/in/omar-casey/">
   <img align="center" alt="jack-par | LinkedIn" width="70px" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png" />
@@ -26,6 +23,10 @@
   
   <a href="https://twitter.com/adooze_">
   <img align="center" alt="jack-par | Twitter" width="70px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
+  </a>
+  
+  <a href="https://omarcasey.com">
+  <img align="center" alt="omar casey | Portfolio" width="70px" src="/OC logo.png" />
   </a>
 </p>
 
