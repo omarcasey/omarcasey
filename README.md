@@ -9,6 +9,11 @@
 
 ---
 
+## Check out some of my projects!
+#### AIgram
+
+---
+
 ### <div align="center"> Connect with me! </div>
 
 <p align="center">
