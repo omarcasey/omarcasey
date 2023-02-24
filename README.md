@@ -55,7 +55,7 @@
   </a>
   
   <a href="https://nodejs.org/en/">
-    <img width="46px" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png" />
+    <img width="80px" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png" />
   </a>
 </p>
 
