@@ -54,8 +54,12 @@
     <img width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   </a>
   
-  <a href="https://nodejs.org/en/">
-    <img width="66px" src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" />
+  <a href="">
+    <img width="56px" src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" />
+  </a>
+  
+  <a href="">
+    <img width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" />
   </a>
 </p>
 
