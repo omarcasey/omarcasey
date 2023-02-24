@@ -55,7 +55,7 @@
   </a>
   
   <a href="https://nodejs.org/en/">
-    <img width="46px" src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" />
+    <img width="66px" src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" />
   </a>
 </p>
 
