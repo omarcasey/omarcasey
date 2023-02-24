@@ -96,7 +96,7 @@
 ---
 
 
-## Check out some of my projects!
+### Check out some of my projects!
 ### [AIgram](https://github.com/omarcasey/AI-gram)
 ### [Real Estate Manager](https://github.com/omarcasey/real_estate_app-refine)
 ### [Portfolio Website](https://github.com/omarcasey/portfolio-v2)
