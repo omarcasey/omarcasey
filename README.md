@@ -9,11 +9,6 @@
 
 ---
 
-## Check out some of my projects!
-#### AIgram
-
----
-
 ### <div align="center"> Connect with me! </div>
 
 <p align="center">
@@ -98,12 +93,14 @@
  
 </p>
 
-<!-- <p align="center"> -->
-<!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackparsonss)](https://github.com/anuraghazra/github-readme-stats) -->
-<!--   <img align="center" alt="jack's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jackparsonss" -->
-<!-- </p> -->
-  
- <!--<p align="center">
-   ![Metrics](https://metrics.lecoq.io/jackparsonss?template=classic&config.timezone=America%2FEdmonton)
-   <img align="center" alt="jack's GitHub Stats" src="https://metrics.lecoq.io/jackparsonss?template=classic&isocalendar=1&languages=1&repositories=1&people=1&achievements=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FEdmonton"
-</p> -->
+---
+
+
+## Check out some of my projects!
+### [AIgram](https://github.com/omarcasey/AI-gram)
+### [Real Estate Manager](https://github.com/omarcasey/real_estate_app-refine)
+### [Portfolio Website](https://github.com/omarcasey/portfolio-v2)
+### [ChatGPT Clone](https://github.com/omarcasey/chatgpt-clone)
+### [Crypto Tracker](https://github.com/omarcasey/cryptotracker)
+
+---
