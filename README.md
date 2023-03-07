@@ -102,7 +102,7 @@
 ### Check out some of my projects!
 ### [AIgram](https://github.com/omarcasey/AI-gram)
 ### [Real Estate Manager](https://github.com/omarcasey/real_estate_app-refine)
-### [Portfolio Website](https://github.com/omarcasey/portfolio-v2)
+### [Portfolio Website](https://github.com/omarcasey/3d-portfolio)
 ### [ChatGPT Clone](https://github.com/omarcasey/chatgpt-clone)
 ### [Crypto Tracker](https://github.com/omarcasey/cryptotracker)
 
